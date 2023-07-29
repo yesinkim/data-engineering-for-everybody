@@ -4,6 +4,13 @@ title : Data Engineering for Everybody
 author: PseudoLab
 logo: 'PseudoLab_logo.png'
 copyright: 3000
+comments:
+  provider: "utterances"
+utterances:
+  repo: "yesinkim/data-engineering-for-everybody"
+  issue-term: "pathname"
+  label: "💬comment"
+
 
 # Short description about the book
 description: >-
@@ -46,6 +53,3 @@ html:
   favicon: 'PseudoLab_logo.png'
   use_issues_button: true
   use_repository_button: true
-  comments:
-    utterances:
-      repo: "yesinkim/data-engineering-for-everybody"
